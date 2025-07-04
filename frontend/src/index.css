@@ -1,5 +1,8 @@
+@import "@fontsource/inter";
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-/* You can add custom styles below if needed */
+body {
+  font-family: 'Inter', sans-serif;
+}
