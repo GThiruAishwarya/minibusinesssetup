@@ -1,35 +1,69 @@
-# 🌐 Mini Local Business Dashboard – Frontend
+# 🚀 Mini Local Business Dashboard – Frontend
 
-This is the **frontend** for the GrowthProAI Full Stack Intern Assignment. It is a responsive React-based dashboard that allows users to enter a business name and location, fetch simulated Google business data, and display AI-generated SEO headlines.
+This is the **frontend** of the Mini Local Business Dashboard built using **React**, **Vite**, and **Tailwind CSS**.  
+It allows users to input a local business name and location, then view simulated Google ratings, reviews, and an AI-generated SEO headline.
 
-## 🚀 Tech Stack
+---
 
-- React (with Vite)
+### 🌐 Live Demo
+
+👉 [https://minibusinesssetup.vercel.app](https://minibusinesssetup.vercel.app)
+
+---
+
+### 📸 Features
+
+- 🌍 Input form for business name and location
+- ⭐ Display of simulated Google Rating and reviews
+- 🧠 AI-style SEO headline generation
+- 🔁 Regenerate SEO headline button
+- 💅 Styled with Tailwind CSS
+- 📱 Mobile responsive design
+- 🔄 Spinner during data fetching
+- ✅ Client-side form validation
+
+---
+
+### 🛠️ Tech Stack
+
+- React
 - Tailwind CSS
-- React Hooks (`useState`, `useEffect`)
-- Custom Spinner & Validation
+- Vite
+- Context API (for state)
+- Express backend (connected to this frontend)
 
 ---
 
-## 📸 Features
+### ⚙️ Getting Started Locally
 
-- 🧾 Form input for business name and location
-- ⭐ Displays simulated Google rating and reviews
-- 🤖 Fetches AI-generated SEO headline from backend
-- 🔁 Regenerate SEO headline on button click
-- 🔄 Shows loading spinner during API calls
-- ✅ Basic form validation and error handling
-- 📱 Fully responsive and mobile-friendly
+```bash
+# Clone the repo
+git clone https://github.com/GThiruAishwarya/minibusinesssetup.git
 
----
+# Go to frontend directory
+cd minibusinesssetup/frontend
 
-## 🔧 Getting Started
-
-### 1️⃣ Install dependencies
-
+# Install dependencies
 npm install
 
-### 2️⃣ Start the frontend
+# Run the app locally
 npm run dev
-http://localhost:5173
-📌 Make sure your backend is running on http://localhost:5000 before submitting the form.
+🌈 Folder Structure
+frontend/
+├── public/
+│   └── vite.svg
+├── src/
+│   ├── components/
+│   │   ├── BusinessForm.jsx
+│   │   ├── DisplayCard.jsx
+│   │   └── Spinner.jsx
+│   ├── hooks/
+│   │   └── useBusinessData.js
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+├── index.html
+├── package.json
+├── tailwind.config.js
+├── postcss.config.js
+└── vite.config.js
