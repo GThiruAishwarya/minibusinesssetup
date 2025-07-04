@@ -9,6 +9,12 @@ It allows users to input a local business name and location, then view simulated
 
 👉 [https://minibusinesssetup.vercel.app](https://minibusinesssetup.vercel.app)
 
+
+### 🖼️ Sample Preview
+
+![Dashboard Screenshot](https://drive.google.com/uc?export=view&id=1CqrPaJpOqLBTSiNrvz-SxvNWi9mNOdPr)
+
+
 ---
 
 ### 📸 Features
