@@ -1,6 +1,7 @@
 import { useState } from "react";
 
-const API_BASE = "http://localhost:5000"; // Change if backend is deployed elsewhere
+//const API_BASE = "http://localhost:5000"; // Change if backend is locally
+const API_BASE = "https://minibusinesssetup-backend.onrender.com"; // backend deploy link in render
 
 export default function useBusinessData() {
   const [businessData, setBusinessData] = useState(null);
