@@ -1,11 +1,3 @@
-Here’s your updated `README.md` for the **Backend** of the GrowthProAI project. This includes:
-
-* 🟢 API Documentation
-* 🌐 Deployed URL
-* 🧪 Example `curl` command using **Microsoft PowerShell**
-* 📷 Link to screenshot proof from your Google Drive
-
----
 
 ## 🚀 GrowthProAI – Backend (Node.js + Express)
 
