@@ -47,7 +47,7 @@ A responsive full-stack web app that simulates how small businesses might view t
 | Type     | Link                                                                                                |
 | -------- | --------------------------------------------------------------------------------------------------- |
 | Frontend | 🔗 [https://minibusinesssetup.vercel.app](https://minibusinesssetup.vercel.app)                     |
-| Backend  | 🔗 [https://minibusinesssetup-backend.onrender.com](https://minibusinesssetup-backend.onrender.com) |
+| Backend  | 🔗 [https://minibusinesssetup-backend.onrender.com/regenerate-headline?name=FishFry%20&%20Co&location=Uppal](https://minibusinesssetup-backend.onrender.com/regenerate-headline?name=FishFry%20&%20Co&location=Uppal) |
 
 ---
 
