@@ -4,6 +4,12 @@
 A responsive full-stack web app that simulates how small businesses might view their SEO content and Google Business data. Built as part of the Full Stack Intern Assignment.
 
 ---
+## 📹 Project Walkthrough
+
+🎥 **Watch the screen recording of the full project flow:**  
+👉 [Click here to view on Google Drive](https://drive.google.com/file/d/1oxFSnmx3xzfVHOKwsVDYxX-jzA5PA6uv/view?usp=sharing)
+
+---
 
 ## 🛠 Tech Stack
 
